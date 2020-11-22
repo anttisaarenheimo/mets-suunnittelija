@@ -1,7 +1,8 @@
 # metsasuunnittelija
 
 ## Summary
-Forestry management adviser for all forest owners in Finland
+
+Forestry management adviser for all forest owners in Finland based on high quality public forest data in Finland. The forest adviser could be integrated to the existing public metsaan.fi service. Building AI course project
 
 ## Background
 
